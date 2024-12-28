@@ -1,0 +1,1 @@
+gfortran -Wall -Wextra -std=legacy -g program_name.f90 -o program_name
